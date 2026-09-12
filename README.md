@@ -12,17 +12,6 @@ An Vibing Using AI
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║  0xSOONOVER :: yth@darknet          ║
-╠══════════════════════════════════════╣
-║  [+] OSINT     — KTP/NIK/KK Enum    ║
-║  [+] Exploit   — Win10/Kerentanan   ║
-║  [+] Bug Hunt  — .ac.id / .go.id    ║
-║  [+] Dev       — CliTer | TUI Tools ║
-╚══════════════════════════════════════╝
-```
-
 </div>
 
 ---
